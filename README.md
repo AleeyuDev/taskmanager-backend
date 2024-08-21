@@ -1,5 +1,4 @@
-# taskmanager
-Full-stack TaskManager project with React frontend and Django backend.
+
 # TaskManager
 
 TaskManager is a full-stack web application built using React.js for the frontend and Django for the backend. This project was developed to demonstrate proficiency in full-stack development, particularly for a junior software engineer role.
